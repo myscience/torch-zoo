@@ -4,4 +4,12 @@ In this repository we collect a miscellaneous set of `PyTorch` models written pr
 
 ## List of Future Exercises
 
--  Graph Neural Network
+- 🔵 Vanilla Graph Neural Network
+
+### Legend of difficulty level:
+
+🔵 Basic
+🟢 Easy
+🟡 *Medium*
+🟠 **Difficult**
+🔴 `Hardcore`
